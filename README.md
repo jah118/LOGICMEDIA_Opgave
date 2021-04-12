@@ -6,6 +6,9 @@ Du har til opgave at løse nedenstående i C#:
    For hvert tal i listen der kan deles ligeligt med 3 skal du udskrive dit [Fornavn]. 
    For hvert tal der kan deles ligeligt med 5 skal du udskrive dit [Efternavn]. 
    For hvert tal der kan deles ligeligt med 3 OG 5 skal du udskrive “[Fornavn][Efternavn]”. 
+   
+## fiddel kode
+https://dotnetfiddle.net/CpnuH6
 
 
 ## Kode
