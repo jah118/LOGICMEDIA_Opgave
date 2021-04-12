@@ -18,7 +18,6 @@ namespace LOGICMEDIA_Opgave
             const string Fornavn = "Jonas";
             const string Efternavn = "Holm";
 
-            //Der valgt sætte nummert man er nået til på den string der printes
             for (var i = 1; i <= 100; i++)
             {
                 var str_i = i + " ";
