@@ -24,7 +24,7 @@ namespace LOGICMEDIA_Opgave
                 if ((i % 3 == 0) & (i % 5 == 0))
                     Console.WriteLine(str_i += Fornavn+ " " + Efternavn);
                 else if (i % 3 == 0)
-                    Console.WriteLine(str_i += Efternavn);
+                    Console.WriteLine(str_i += Fornavn);
                 else if (i % 5 == 0)
                     Console.WriteLine(str_i += Efternavn);
                 else
